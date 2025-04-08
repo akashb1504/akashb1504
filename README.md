@@ -1,7 +1,7 @@
 # Welcome to My Portfolio 👋
 
 
-## Hi, I'm Aravind Harikumar!
+## Hi, I'm Akash B!
 
 
 ---
@@ -9,7 +9,7 @@
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Python, R, SQL, HTML, CSS
-- **Data Science Skills**: Data Visualization, Feature Engineering, Data Wrangling, Machine Learning
+- **Data Science Skills**: Data Visualization, Feature Engineering, Deep Learning, Machine Learning, Natural Language Processing
 - **Frameworks/Tools**: TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy
 - **Web Development**: React, Django, PostgreSQL
 
@@ -17,12 +17,13 @@
 
 ## 🚀 Projects
 
-### Customer Segmentation Using K-Means Clustering
-- **Description**: Developed a customer segmentation model using K-Means Clustering.
-- **Tech Used**: Python, Pandas, Scikit-learn
+### Darknet Traffic Detection and Characterization
+- **Description**: Currently working on a research paper on darknet traffic detection using Deep Learning.
+- **Tech Used**: Python, Pandas, Scikit-learn, Keras, TensorFlow
 - **Key Features**:
-  - Implemented the Elbow method to find optimal clusters.
-  - Discovered hidden patterns and trends in customer behavior.
+  - Implementing CNN, LSTM models to classify benign and darknet traffic, with a focus on improving detection accuracy
+and analyzing malicious patterns in encrypted traffic.
+
   
 ### Corn Leaf Disease Detection
 - **Description**: Developed a deep learning model using CNN and Compact Convolutional Transformer (CCT) for disease classification.
@@ -44,7 +45,12 @@
 ## 🎓 Education
 
 - **Integrated MSc Data Science**  
-  Amrita Vishwa Vidyapeetham (2021-2026)  
+  Amrita Vishwa Vidyapeetham (2021-2026)
+
+- **Higher Secondary and Secondary Education**  
+  Kendriya Vidyalaya Adoor
+
+
 
 
 ---
@@ -59,8 +65,8 @@
 
 ## 📫 Contact
 
-- **Email**: [aravindharikumar0@gmail.com](mailto:aravindharikumar0@gmail.com)
-- **LinkedIn**: [Aravind Harikumar](https://www.linkedin.com/in/aravind-harikumar)
+- **Email**: [akash2481810@gmail.com](mailto:akash2481810@gmail.com)
+- **LinkedIn**: [Akash B](https://www.linkedin.com/in/akash-b-a281810k/)
 
 ---
 
