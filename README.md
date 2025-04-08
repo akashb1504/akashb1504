@@ -73,9 +73,11 @@
 
 ## 📜 Certifications
 
-- [Applied Data Science Specialization](https://coursera.org) - IBM (Coursera)
-- [Python for Data Science and Machine Learning](https://udemy.com) - Udemy
-
+- Python for Data Science and Machine Learning Bootcamp – Udemy
+- Google Prompting Essentials - Coursera
+- Business Analytics with Excel: Elementary to Advanced - Coursera
+- Google Data Analytics Professional Certificate – Coursera
+- Data Analysis and Visualization with Power BI – Coursera
 
 ---
 
