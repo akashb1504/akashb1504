@@ -18,12 +18,24 @@
 ## 🚀 Projects
 
 ### Darknet Traffic Detection and Characterization
-- **Description**: Currently working on a research paper on darknet traffic detection using Deep Learning.
+- **Description**: A research paper on darknet traffic detection using Deep Learning.
 - **Tech Used**: Python, Pandas, Scikit-learn, Keras, TensorFlow
 - **Key Features**:
   - Applied and compared five advanced feature selection methods — Mutual Information, Random Forest, RFE, XGBoost, and Autoencoder — to identify the most important features for darknet traffic detection.
   - Implemented CNN, LSTM, and a hybrid CNN+LSTM model to classify traffic as benign or darknet.
   - Evaluated models using accuracy, log loss, precision, recall, F1-score, training and evaluation time and visualized performance with accuracy/loss curves and classification reports.
+
+### Real-time Weather Dashboard
+- **Description**: A visually rich, real-time **Weather & Air Quality Dashboard** built with **Power BI** and **WeatherAPI** to display live weather, forecasts, and air quality metrics.
+- **Tech Used**: Power BI, WeatherAPI, DAX.
+- **Key Features**:
+  - Displays live temperature, weather conditions, and city selection (e.g., Hyderabad, Ajmer, Chennai, Delhi).
+  - 7-day forecast with trend lines and weather icons.
+  - Sunrise & sunset times updated daily.
+  - Real-time humidity, wind speed, visibility, pressure, UV index, and precipitation.
+  - Air Quality Index (NO₂, PM2.5, PM10, SO₂, CO, O₃).
+  - Daily rain probability shown via bar charts.
+
 
 ### Gym Management System
 - **Description**: FitHub Pro is a full-stack web-based gym management solution designed to streamline member management, class scheduling, attendance tracking, and reporting. It provides gym administrators and trainers with powerful tools to optimize operations and enhance the member experience.
