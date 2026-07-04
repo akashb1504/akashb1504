@@ -68,9 +68,9 @@ A confidence-routed hybrid classifier: fast Random Forest handles high-confidenc
 ## 📊 Other Notable Work
 - **[JEE Closing Rank Prediction](https://github.com/akashb1504/Jee-Closing-Rank-Prediction)** — ML/DL system (Linear Regression, Random Forest, XGBoost, LightGBM, MLP) predicting JEE closing ranks; LightGBM best at R² 0.988
 - **[Breast Cancer Prediction](https://github.com/akashb1504/Breast-Cancer-Detection-Using-Machine-Learning-Models)** — Diagnostic ML pipeline (Logistic Regression, SVM, XGBoost) classifying tumors, up to 97.4% accuracy, deployed on Streamlit
-- **Rainfall Prediction** — Comparative ML modeling (SVC, Random Forest, XGBoost, Logistic Regression) with class balancing
-- **Power BI Weather & Air Quality Dashboard** — Real-time weather/AQI dashboard using WeatherAPI
-- **Ferns & Petals Sales Analysis** — Excel-based sales and customer behavior dashboard for a gifting retailer
+- **[Rainfall Prediction](https://github.com/akashb1504/Rainfall-Prediction-using-Machine-Learning-Models)** — Comparative ML modeling (SVC, Random Forest, XGBoost, Logistic Regression) with class balancing
+- **[Power BI Weather & Air Quality Dashboard](https://github.com/akashb1504/Weather-Dashboard-Power-BI)** — Real-time weather/AQI dashboard using WeatherAPI
+- **[Ferns & Petals Sales Analysis](https://github.com/akashb1504/Fnp-Sales-Dashboard-Excel)** — Excel-based sales and customer behavior dashboard for a gifting retailer
 
 ---
 
