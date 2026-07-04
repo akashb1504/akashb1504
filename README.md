@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Akash B 👋</h1>
-<h3 align="center">Data Science Postgrad · ML/DL Engineer · Building AI systems that reason, retrieve, and explain</h3>
+<h3 align="center">Data Science Grad · Data Scientist | AI/ML Engineer · Building AI systems that reason, retrieve, and explain</h3>
 
 <p align="center">
   <a href="mailto:akash2481810@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -51,31 +51,25 @@ A **multi-agent AI research assistant** (Planner, Search, Reader, Verifier, Writ
 - Implemented production-grade resilience: source prioritization, state management, automatic retry with exponential backoff, model fallback, and Markdown export
 - **Tech:** LangChain · LLaMA 3.3 70B (Groq) · Streamlit · BeautifulSoup · DuckDuckGo Search
 
-### 🔐 IoMT Intrusion Detection — Benchmarking ML, DL & Lightweight Transformers
+### 🔐 [IoMT Intrusion Detection — Benchmarking ML, DL & Lightweight Transformers](https://github.com/akashb1504/Benchmarking-ML-DL-and-Lightweight-Transformers-for-Imbalanced-IoMT-Intrusion-Detection)
 An intrusion detection system for healthcare IoMT networks under extreme class imbalance, benchmarked on 9M+ traffic records (CICIoMT2024 dataset).
 - Designed a tabular-to-text transformation pipeline enabling TinyBERT and ELECTRA on network traffic features, alongside Random Forest and CNN baselines
 - Improved minority-class (benign) recall from 0.06 (Random Forest) to 0.24 (TinyBERT), achieving 97.3% accuracy while identifying performance/inference-throughput trade-offs for deployment
 - **Tech:** PyTorch · Hugging Face Transformers · Scikit-learn · TensorFlow/Keras
 
-### 🕸️ Darknet Traffic Detection and Characterization
-A research paper applying deep learning to classify darknet vs. benign network traffic.
-- Benchmarked five feature selection methods (Mutual Information, Random Forest, RFE, XGBoost, Autoencoder)
-- Implemented and compared CNN, LSTM, and a hybrid CNN+LSTM classifier
-- **Tech:** Python, TensorFlow, Keras, Scikit-learn
-
-### 📧 Email Spam Detection — Hybrid Random Forest + LSTM
+### 📧 [Email Spam Detection — Hybrid Random Forest + LSTM](https://github.com/akashb1504/Hybrid-Email-spam-detection)
 A confidence-routed hybrid classifier: fast Random Forest handles high-confidence cases, low-confidence predictions are escalated to a deep LSTM model.
 - Random Forest (TF-IDF, 97.8% accuracy) with a 0.8 confidence threshold routing ~12% of samples to LSTM (95.7% accuracy on rejected samples)
 - Combines shallow-model speed with deep-model accuracy on ambiguous cases
 - **Tech:** Scikit-learn, TensorFlow/Keras, NLTK
 
-### 🎓 JEE Closing Rank Prediction
+### 🎓 [JEE Closing Rank Prediction](https://github.com/akashb1504/Jee-Closing-Rank-Prediction)
 An ML/DL system predicting JEE closing ranks from ~15,000 historical admission records (2019–2024, web-scraped from RankMatrix).
 - Compared Linear Regression, Random Forest, XGBoost, LightGBM, and an MLP — LightGBM performed best (R² 0.988, MAE 240.88)
 - Includes trend analysis by institute, category, branch, and seat pool
 - **Tech:** Scikit-learn, XGBoost, LightGBM, TensorFlow/Keras
 
-### 🩺 Breast Cancer Prediction
+### 🩺 [Breast Cancer Prediction](https://github.com/akashb1504/Breast-Cancer-Detection-Using-Machine-Learning-Models)
 A diagnostic ML pipeline classifying tumors as malignant or benign, deployed as an interactive Streamlit app.
 - Random Forest feature importance for feature selection; benchmarked Logistic Regression, SVM, XGBoost (up to 97.4% accuracy)
 - Live prediction interface with pre-saved scaler and model
@@ -84,8 +78,6 @@ A diagnostic ML pipeline classifying tumors as malignant or benign, deployed as 
 ---
 
 ## 📊 Other Notable Work
-- **Corn Leaf Disease Detection** — CNN + Compact Convolutional Transformer (CCT) for crop disease classification
-- **Used Car Price Prediction** — Regression modeling with statistical significance testing (T-test, F-test)
 - **Rainfall Prediction** — Comparative ML modeling (SVC, Random Forest, XGBoost, Logistic Regression) with class balancing
 - **Power BI Weather & Air Quality Dashboard** — Real-time weather/AQI dashboard using WeatherAPI
 - **Ferns & Petals Sales Analysis** — Excel-based sales and customer behavior dashboard for a gifting retailer
