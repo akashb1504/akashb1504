@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Akash B 👋</h1>
-<h3 align="center">Data Science Grad · Data Scientist | AI/ML Engineer · Building AI systems that reason, retrieve, and explain</h3>
+<h3 align="center">Data Science Graduate · Data Scientist | AI/ML Engineer | GenAI Engineer</h3>
 
 <p align="center">
   <a href="mailto:akash2481810@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -7,18 +7,18 @@
   <a href="https://github.com/akashb1504"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-I'm completing my **Integrated MSc in Data Science** at Amrita University (2021 – Aug 2026). I build end-to-end ML/DL systems and applied Generative AI products — from research-grade intrusion detection models to production-ready RAG chatbots and multi-agent LLM pipelines — with hands-on experience applying these skills at ISRO's National Remote Sensing Centre and MARS Telecom Systems.
+I'm a **Data Science graduate** from Amrita University, building end-to-end ML/DL systems and applied Generative AI products — from research-grade intrusion detection models to production-ready RAG chatbots and multi-agent LLM pipelines. I bring hands-on experience from internships at ISRO's National Remote Sensing Centre and MARS Telecom Systems, and I'm looking for roles as a **Data Scientist, AI/ML Engineer, or GenAI Engineer**.
 
 ---
 
 ### 🛠️ Technical Skills
 
-**Programming:** Python, SQL, Git
-**Machine Learning & Deep Learning:** Classification, Regression, Time Series Forecasting, Imbalanced Learning, Model Evaluation, Hyperparameter Tuning, TensorFlow/Keras, PyTorch
-**Generative AI & LLMs:** Transformers, Hugging Face, LangChain, Retrieval-Augmented Generation (RAG), Prompt Engineering, Agentic AI, Multi-Agent Systems, Function Calling, Embeddings, Semantic Search, Vector Databases
-**Data Engineering & Analysis:** ETL Pipelines, Data Preprocessing, EDA, Feature Engineering, Statistical Testing, PDF Parsing, Information Retrieval
-**Deployment & Tools:** FastAPI, Streamlit, REST APIs, Docker, AWS, Pinecone, GitHub Actions
-**Visualization / BI:** Power BI, Excel, Matplotlib, Seaborn
+- **Programming:** Python, SQL, Git
+- **Machine Learning & Deep Learning:** Classification, Regression, Time Series Forecasting, Imbalanced Learning, Model Evaluation, Hyperparameter Tuning, TensorFlow/Keras, PyTorch
+- **Generative AI & LLMs:** Transformers, Hugging Face, LangChain, Retrieval-Augmented Generation (RAG), Prompt Engineering, Agentic AI, Multi-Agent Systems, Function Calling, Embeddings, Semantic Search, Vector Databases
+- **Data Engineering & Analysis:** ETL Pipelines, Data Preprocessing, EDA, Feature Engineering, Statistical Testing, PDF Parsing, Information Retrieval
+- **Deployment & Tools:** FastAPI, Streamlit, REST APIs, Docker, AWS, Pinecone, GitHub Actions
+- **Visualization / BI:** Power BI, Excel, Matplotlib, Seaborn
 
 ---
 
@@ -63,21 +63,11 @@ A confidence-routed hybrid classifier: fast Random Forest handles high-confidenc
 - Combines shallow-model speed with deep-model accuracy on ambiguous cases
 - **Tech:** Scikit-learn, TensorFlow/Keras, NLTK
 
-### 🎓 [JEE Closing Rank Prediction](https://github.com/akashb1504/Jee-Closing-Rank-Prediction)
-An ML/DL system predicting JEE closing ranks from ~15,000 historical admission records (2019–2024, web-scraped from RankMatrix).
-- Compared Linear Regression, Random Forest, XGBoost, LightGBM, and an MLP — LightGBM performed best (R² 0.988, MAE 240.88)
-- Includes trend analysis by institute, category, branch, and seat pool
-- **Tech:** Scikit-learn, XGBoost, LightGBM, TensorFlow/Keras
-
-### 🩺 [Breast Cancer Prediction](https://github.com/akashb1504/Breast-Cancer-Detection-Using-Machine-Learning-Models)
-A diagnostic ML pipeline classifying tumors as malignant or benign, deployed as an interactive Streamlit app.
-- Random Forest feature importance for feature selection; benchmarked Logistic Regression, SVM, XGBoost (up to 97.4% accuracy)
-- Live prediction interface with pre-saved scaler and model
-- **Tech:** Scikit-learn, XGBoost, Streamlit
-
 ---
 
 ## 📊 Other Notable Work
+- **[JEE Closing Rank Prediction](https://github.com/akashb1504/Jee-Closing-Rank-Prediction)** — ML/DL system (Linear Regression, Random Forest, XGBoost, LightGBM, MLP) predicting JEE closing ranks; LightGBM best at R² 0.988
+- **[Breast Cancer Prediction](https://github.com/akashb1504/Breast-Cancer-Detection-Using-Machine-Learning-Models)** — Diagnostic ML pipeline (Logistic Regression, SVM, XGBoost) classifying tumors, up to 97.4% accuracy, deployed on Streamlit
 - **Rainfall Prediction** — Comparative ML modeling (SVC, Random Forest, XGBoost, Logistic Regression) with class balancing
 - **Power BI Weather & Air Quality Dashboard** — Real-time weather/AQI dashboard using WeatherAPI
 - **Ferns & Petals Sales Analysis** — Excel-based sales and customer behavior dashboard for a gifting retailer
@@ -85,7 +75,7 @@ A diagnostic ML pipeline classifying tumors as malignant or benign, deployed as 
 ---
 
 ## 🎓 Education
-**Integrated MSc Data Science** — Amrita University, Coimbatore (2021 – Aug 2026)
+**Integrated MSc Data Science** — Amrita University, Coimbatore
 Higher Secondary & Secondary Education — Kendriya Vidyalaya Adoor
 
 ## 📜 Certifications
@@ -99,4 +89,4 @@ Higher Secondary & Secondary Education — Kendriya Vidyalaya Adoor
 - 📧 akash2481810@gmail.com
 - 💼 [linkedin.com/in/akashb1504](https://linkedin.com/in/akashb1504)
 
-Open to collaborating on ML/DL, Generative AI, and data-driven projects — feel free to reach out!
+Open to Data Scientist, AI/ML Engineer, and GenAI Engineer roles — let's connect!
