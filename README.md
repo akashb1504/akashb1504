@@ -75,8 +75,8 @@ A confidence-routed hybrid classifier: fast Random Forest handles high-confidenc
 ---
 
 ## 🎓 Education
-**Integrated MSc Data Science** — Amrita University, Coimbatore
-Higher Secondary & Secondary Education — Kendriya Vidyalaya Adoor
+- **Integrated MSc Data Science** — Amrita University, Coimbatore
+- Higher Secondary & Secondary Education — Kendriya Vidyalaya Adoor
 
 ## 📜 Certifications
 - Python for Data Science and Machine Learning Bootcamp — Udemy
